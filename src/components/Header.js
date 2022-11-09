@@ -80,7 +80,7 @@ const Header = () => {
               <img
                 className="img-xs rounded-circle"
                 src="/images/favicon.png"
-                alt="User"
+                alt="Admin"
               />
             </Link>
             <div className="dropdown-menu dropdown-menu-end">
