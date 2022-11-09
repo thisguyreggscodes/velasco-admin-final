@@ -51,5 +51,13 @@
     "mern"
   ],
   "author": "Reggie Brucales, UBWS",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thisguyreggscodes/velasco-admin-final.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thisguyreggscodes/velasco-admin-final/issues"
+  },
+  "homepage": "https://github.com/thisguyreggscodes/velasco-admin-final#readme"
 }
