@@ -16,7 +16,7 @@ const ExtraData = () => {
                 id="product-cat"
               />
               <label className="form-check-label" htmlFor="product-cat">
-                Shirt
+                Parts
               </label>
             </div>
             <div className="form-check">
@@ -27,7 +27,7 @@ const ExtraData = () => {
                 id="product-cat-1"
               />
               <label className="form-check-label" htmlFor="product-cat-1">
-                T-Shirt
+                Gears
               </label>
             </div>
             <div className="form-check">
@@ -38,7 +38,7 @@ const ExtraData = () => {
                 id="product-cat-2"
               />
               <label className="form-check-label" htmlFor="product-cat-2">
-                Sneakers
+                Cycles
               </label>
             </div>
             <div className="form-check">
@@ -49,7 +49,7 @@ const ExtraData = () => {
                 id="product-cat-3"
               />
               <label className="form-check-label" htmlFor="product-cat-3">
-                Joggers
+                Uniforms
               </label>
             </div>
             <div className="form-check">
@@ -58,7 +58,8 @@ const ExtraData = () => {
                 type="checkbox"
                 value=""
                 id="product-cat-4"
-              />
+              />{/* This data is only optional for expansion!!! */} 
+              {/*
               <label className="form-check-label" htmlFor="product-cat-4">
                 Vests
               </label>
@@ -86,7 +87,7 @@ const ExtraData = () => {
               </label>
             </div>
           </>
-          {/* Colors */}
+          {/* Colors
           <>
             <h5 className="mb-3 mt-4">Colors</h5>
             <div className="form-check">
@@ -123,7 +124,7 @@ const ExtraData = () => {
               </label>
             </div>
           </>
-          {/* Size */}
+          {/* Size 
           <>
             <h5 className="mb-3 mt-4">Size</h5>
             <div className="form-check">
@@ -158,6 +159,8 @@ const ExtraData = () => {
               <label className="form-check-label" htmlFor="product-cat-2">
                 XL
               </label>
+  */}
+              
             </div>
           </>
         </div>

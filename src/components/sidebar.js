@@ -84,13 +84,14 @@ const Sidebar = () => {
                 <span className="text">Users</span>
               </NavLink>
             </li>
-            <li className="menu-item">
+            {/*THIS CODE SNIPPET IS NOT USED BECAUSE I COULDN'T FIGURE OUT HOW TO ROUTE IT HEHE */}
+           {/*  <li className="menu-item">
               <NavLink
                 activeClassName="active"
                 className="menu-link disabled"
                 to="/sellers"
               >
-                <i className="icon fas fa-store-alt"></i>
+               <i className="icon fas fa-store-alt"></i>
                 <span className="text">Sellers</span>
               </NavLink>
             </li>
@@ -104,7 +105,8 @@ const Sidebar = () => {
                 <i className="icon fas fa-usd-circle"></i>
                 <span className="text">Transactions</span>
               </NavLink>
-            </li>
+  
+            </li>*/}
           </ul>
           <br />
           <br />
